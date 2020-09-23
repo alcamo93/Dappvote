@@ -1,3 +1,5 @@
+
+![Preview](https://github.com/alcamo93/Dappvote/blob/master/Dvote.png)
 # Dappvote
 Dvote
 
@@ -8,6 +10,7 @@ Dapp para comprender y probar una votación en Blockchain Ethereum Kovan.
 2.- Accesar al grifo https://faucet.kovan.network/ debe tener cuenta github para autenticar y luego pegar el hash de la cuenta dar click y listo ya te envia 1 keth.
 
 3.- Ingresar al link https://alcamo93.github.io/Dappvote/
+
 
 ![Preview](https://github.com/alcamo93/Dappvote/blob/master/Dvote.png)
 

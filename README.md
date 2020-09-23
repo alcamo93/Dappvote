@@ -1,7 +1,8 @@
+<p align="center">		
+  <img src="https://github.com/alcamo93/Dappvote/blob/master/Dvote.png">		
+</p>
 
-![Preview](https://github.com/alcamo93/Dappvote/blob/master/Dvote.png)
-# Dappvote
-Dvote
+Dappvote
 
 Dapp para comprender y probar una votación en Blockchain Ethereum Kovan.
 

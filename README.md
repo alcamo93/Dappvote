@@ -33,3 +33,5 @@ Debes seleccionar la red kovan, una vez allí copia la dirección del contrato q
 9.- Te muestra todas las Tx de votación efectuadas.
 
 ![Preview](https://github.com/alcamo93/Dappvote/blob/gh-pages/Etherscan1.png)
+
+alcamo93@gmail.com

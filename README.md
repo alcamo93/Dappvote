@@ -9,7 +9,7 @@ Dapp para comprender y probar una votación en Blockchain Ethereum Kovan.
 
 3.- Ingresar al link https://alcamo93.github.io/Dappvote/
 
-![Preview](https://github.com/alcamo93/DoopNews/blob/master/Dvote.png)
+![Preview](https://github.com/alcamo93/Dappvote/blob/master/Dvote.png)
 
 
 4.- En la lista desplegable seleccionas el candidato y luego pulsas votar.
@@ -20,14 +20,14 @@ Dapp para comprender y probar una votación en Blockchain Ethereum Kovan.
 
 7.- Puedes ver la trazabilidad y todos los votos efectuados a través de etherscan https://etherscan.io/, allí en el símbolo de Ethereum
 
-![Preview](https://github.com/alcamo93/DoopNews/blob/master/Eth.png)
+![Preview](https://github.com/alcamo93/Dappvote/blob/master/Eth.png)
 
 Debes seleccionar la red kovan, una vez allí copia la dirección del contrato que la tienes en la pantalla de Dvote y si no aquí te la dejo: 0x139a7bd621167196684b3005303e11AC8586E6F1
 
 8.- En esta pantalla copia la dirección del contrato y luego la lupa.
 
-![Preview](https://github.com/alcamo93/DoopNews/blob/master/Etherscan0.png)
+![Preview](https://github.com/alcamo93/Dappvote/blob/master/Etherscan0.png)
 
 9.- Te muestra todas las Tx de votación efectuadas.
 
-![Preview](https://github.com/alcamo93/DoopNews/blob/master/Etherscan1.png)
+![Preview](https://github.com/alcamo93/Dappvote/blob/master/Etherscan1.png)

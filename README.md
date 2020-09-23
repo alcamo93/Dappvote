@@ -1,5 +1,5 @@
 <p align="center">		
-  <img src="https://github.com/alcamo93/Dappvote/blob/master/Dvote.png">		
+  <img src="https://github.com/alcamo93/Dappvote/blob/gh-pages/Dvote.png">		
 </p>
 
 Dappvote

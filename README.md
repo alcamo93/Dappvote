@@ -24,14 +24,16 @@
 
 ![Preview](https://github.com/alcamo93/Dappvote/blob/gh-pages/Eth.png)
 
-Debes seleccionar la red kovan, una vez allí copia la dirección del contrato que la tienes en la pantalla de Dvote y si no aquí te la dejo: 0x139a7bd621167196684b3005303e11AC8586E6F1
+Debes seleccionar la red kovan, una vez allí copia la dirección del contrato que la tienes en la pantalla de Dvote y si no aquí te la dejo: 0x1e192e70e49843a70A8eBfB993f11E3F8bC049bB
 
 8.- En esta pantalla copia la dirección del contrato y luego la lupa.
 
 ![Preview](https://github.com/alcamo93/Dappvote/blob/gh-pages/Etherscan0.png)
 
+
 9.- Te muestra todas las Tx de votación efectuadas.
 
 ![Preview](https://github.com/alcamo93/Dappvote/blob/gh-pages/Etherscan1.png)
+
 
 alcamo93@gmail.com
